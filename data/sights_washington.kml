@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Washington DC Sehenswürdigkeiten</name>
+	<gx:CascadingStyle kml:id="__managed_style_0BE8A7A6C114B7BBF427">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17ABBAC97614B7BBF426">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02161E9BC014B7BBF426">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17ABBAC97614B7BBF426</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0BE8A7A6C114B7BBF427</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1FEA6F1A3414B7B9E960">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2A63324A8014B7B9E960">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_055B2A5ACB14B7B9E960">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FEA6F1A3414B7B9E960</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2A63324A8014B7B9E960</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0AD4D2D67D14B7B9E95F">
+		<name>Union Station</name>
+		<LookAt>
+			<longitude>-77.00576209991972</longitude>
+			<latitude>38.89778590024279</latitude>
+			<altitude>13.55085603290806</altitude>
+			<heading>-164.073057037177</heading>
+			<tilt>44.99999999974941</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.4147527382884</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_055B2A5ACB14B7B9E960</styleUrl>
+		<Point>
+			<coordinates>-77.0057621,38.8977859,13.56601484618045</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023EB8830614B7BBF41E">
+		<name>Kapitol</name>
+		<gx:mid>/m/07vth</gx:mid>
+		<gx:fid>0x89b7b82921a2cf17:0x482a3f7c10cf8c4</gx:fid>
+		<LookAt>
+			<longitude>-77.0090505</longitude>
+			<latitude>38.8899389</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.5117082118592</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0090505,38.8899389,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08709C02CC14B7BC7C9F">
+		<name>Library of Congress</name>
+		<gx:mid>/m/04jp2</gx:mid>
+		<gx:fid>0x390feef68ef83a4d:0x46cbb296f4de3eec</gx:fid>
+		<LookAt>
+			<longitude>-77.00471899999999</longitude>
+			<latitude>38.888684</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.5272058762077</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.00471899999999,38.888684,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03E240D89F14B7BD06B3">
+		<name>United States Botanic Garden</name>
+		<gx:mid>/m/0389zk</gx:mid>
+		<gx:fid>0x89b7b780d4824e1d:0x9d76b2fe03d27f20</gx:fid>
+		<LookAt>
+			<longitude>-77.0128833</longitude>
+			<latitude>38.8881451</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.5338610261635</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0128833,38.8881451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0055A8DFBB14B7BD8F61">
+		<name>Smithsonian Institution Building</name>
+		<gx:mid>/m/033xgm</gx:mid>
+		<gx:fid>0x89b7b79c6ba55fef:0x826d3176576f4a42</gx:fid>
+		<LookAt>
+			<longitude>-77.0260229</longitude>
+			<latitude>38.8887861</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.5259449836739</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0260229,38.8887861,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F5EE1C24B14B7BE54A7">
+		<name>National Museum of Natural History</name>
+		<gx:mid>/m/033xmz</gx:mid>
+		<gx:fid>0x89b7b798ecb5b2c7:0xc7edf0c4a86f75af</gx:fid>
+		<LookAt>
+			<longitude>-77.02606539999999</longitude>
+			<latitude>38.8912662</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.4953160219283</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.02606539999999,38.8912662,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA7427CF214B7BEF90D">
+		<name>Newseum Residences</name>
+		<gx:mid>/g/1trch9m6</gx:mid>
+		<gx:fid>0x89b7b7856e103339:0x5d5cc11d67c67f2a</gx:fid>
+		<LookAt>
+			<longitude>-77.0196499</longitude>
+			<latitude>38.8932873</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.470354582474</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0196499,38.8932873,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09410325C714B7BF7F82">
+		<name>Weißes Haus</name>
+		<gx:mid>/m/081sq</gx:mid>
+		<gx:fid>0x89b7b7bcdecbb1df:0x715969d86d0b76bf</gx:fid>
+		<LookAt>
+			<longitude>-77.0365298</longitude>
+			<latitude>38.8976763</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.416145246108</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0365298,38.8976763,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C6B38910014B7BFEE22">
+		<name>Washington Monument</name>
+		<gx:mid>/m/016dff</gx:mid>
+		<gx:fid>0x89b7b7a1be0c2e7f:0xe97346828ed0bfb8</gx:fid>
+		<LookAt>
+			<longitude>-77.03517144999999</longitude>
+			<latitude>38.88945415</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.5176947831123</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0352791,38.8894838,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D15E67A0614B7C05E36">
+		<name>Lincoln Memorial</name>
+		<gx:mid>/m/0drzq</gx:mid>
+		<gx:fid>0x89b7b771e0906287:0x1049d1c9c95c2eb6</gx:fid>
+		<LookAt>
+			<longitude>-77.05017599999999</longitude>
+			<latitude>38.8892686</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.5199862759586</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.05017599999999,38.8892686,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9852958114B7C0DFBA">
+		<name>Vietnam Veterans Memorial</name>
+		<gx:mid>/m/080k9</gx:mid>
+		<gx:fid>0x89b7b7a8df9b7bff:0x347361e07c68eb05</gx:fid>
+		<LookAt>
+			<longitude>-77.04771319999999</longitude>
+			<latitude>38.8912933</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.4949813318694</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.04771319999999,38.8912933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B1BF9AD8314B7C1825A">
+		<name>Jefferson Memorial</name>
+		<gx:mid>/m/06_09g5</gx:mid>
+		<gx:fid>0x89b7b70b9e9c68bb:0x44137d74ec09872</gx:fid>
+		<LookAt>
+			<longitude>-77.0364536</longitude>
+			<latitude>38.88138060000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.6173934240438</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0364536,38.88138060000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F2F819A2814B7C2E1DB">
+		<name>National Air and Space Museum</name>
+		<gx:mid>/m/01gbmc</gx:mid>
+		<gx:fid>0x89b7b7837b262421:0xf8e7c937dd8ce81b</gx:fid>
+		<LookAt>
+			<longitude>-77.01986789999999</longitude>
+			<latitude>38.88816010000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.5336757844713</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.01986789999999,38.88816010000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03F97AA4F014B7C3BD31">
+		<name>National Mall</name>
+		<gx:mid>/m/016fkr</gx:mid>
+		<gx:fid>0x89b7b79b5aff3d31:0x3a08ab4ca2062741</gx:fid>
+		<LookAt>
+			<longitude>-77.0229772</longitude>
+			<latitude>38.8896198</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.515649043052</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0229772,38.8896198,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04969C381114B7C451EB">
+		<name>Smithsonian National Zoological Park</name>
+		<gx:mid>/m/01gcr_</gx:mid>
+		<gx:fid>0x89b7b7d61dc7f0df:0x9e68ac204b0c1be4</gx:fid>
+		<LookAt>
+			<longitude>-77.04978439999999</longitude>
+			<latitude>38.9296156</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.0215198211345</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02161E9BC014B7BBF426</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.04978439999999,38.9296156,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
